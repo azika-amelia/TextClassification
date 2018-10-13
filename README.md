@@ -9,4 +9,4 @@ So far the problem is treated in a very simple manner therefore only a few basic
 
 ### ANN:
 For Classification ANN is text classification.
-Confusion Matrix: Neural Network
+With an f1-Score of 0.71
