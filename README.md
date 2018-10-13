@@ -7,6 +7,5 @@ Amazon Reviews for Alexa are being categorised into 3 categories, indicating how
 ### Preprocessing:
 So far the problem was treated in a very simple manner therefore only a few basic preprocessing techinques are practiced. To convert textual data into numerical data,TF-IDF was used.
 
-### ANN:
-For Classification ANN is text classification.
-With an f1-Score of 0.71
+### Model:
+Fully connected Neural Network does the text classification, with an f1-Score of 0.71
